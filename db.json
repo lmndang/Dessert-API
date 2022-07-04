@@ -6,7 +6,7 @@
       "Blueberry Pie Sauce",
       "something",
       "add more",
-      "add somthing"
+      "add something"
     ],
     "cone": ["Sugar Cones", " Waffle Cones"],
     "topping": [
@@ -16,10 +16,34 @@
       "Orange-Chocolate Hot Fudge"
     ]
   },
-  
+
   "cake": {
     "bottom": "Something",
     "cream": "Example",
     "top": "Cherry"
+  },
+
+  "waffle": {
+    "base": [
+      {"id": 1, "name": "Regular Brussels Waffle", "info": "Brussels waffles,made with yeast, are big rectangular waffles that are crispy on the outside and fluffy on the inside with large deep pockets.", "img": "waffle_base1.png"},
+      {"id": 2, "name": "Vegan Brussels Waffle", "info": "Vegan version of brussels waffles without the use of eggs in its recipy", "img": "waffle_base1.png"},
+      {"id": 3, "name": "Regular Belgium Waffle", "info": "Belgium waffles are very similar to the Brussels waffle, but it is made with baking powder instead which changes the consistency slightly.", "img": "waffle_base2.png"},
+      {"id": 4, "name": "Vegan Belgium Waffle", "info": "The recipy does not use dairy and eggs, but belgium waffles' texture and taste are saved anyway. They’re light and fluffy on the inside and crispy on the outside, made with almond milk and with a slight nutty taste thanks to the ground flax seed.", "img": "waffle_base2.png" },
+      {"id": 5, "name": "Regular Pandan Waffle", "info": "This is the Vietnamese version of the waffle with a very interesting color, since one of the ingredients used to flavor the waffle is Pandan leaves or extract, which gives it a green color and also a nutty flavor.", "img": "waffle_base3.png"},
+      {"id": 6, "name": "Vegan Pandan Waffle", "info": "Eggs are not added in this recipy, but original taste and texture are fully saved", "img": "waffle_base3.png"},
+      {"id": 7, "name": " Regular Hong Kong Egg Waffles", "info": "Instead of the traditional pockets indenting a waffle, the Hong Kong egg waffle has egg shaped bubbles sticking outward that are easy to break off and snack on", "img": "waffle_base4.png" },
+      {"id": 8, "name": "Vegan Hong Kong Waffles", "info": "Vegan version of Hing Kong Waffle without using eggs in its recipy", "img": "waffle_base4.png" }],
+    "toppings": [
+      {"id": 1, "name": "Mix of berries", "img": "waffle_topping1.png"}, 
+      {"id": 2, "name": "Coconut flakes", "img": "waffle_topping2.png"}, 
+      {"id": 3, "name": "Apples and cinnamon", "img": "waffle_topping3.png" }, 
+      {"id": 4, "name": "Nutella", "img": "waffle_topping4.png"}, 
+      {"id":5, "name": "Whipped cream", "img": "waffle_topping5.png"},
+      {"id":6, "name": "Pecans", "img": "waffle_topping6.png"},
+      {"id":7, "name": "Cherries", "img": "waffle_topping7.png"},
+      {"id": 8, "name": "Marshmallows", "img": "waffle_topping8.png"},
+      {"id": 9, "name": "Bourbon Peaches", "img": "waffle_topping9.png"},
+      {"id": 10, "name": "Maple Syrup", "img": "waffle_topping10.png"}
+    ]
   }
 }
