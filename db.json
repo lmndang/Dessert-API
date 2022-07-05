@@ -82,9 +82,9 @@
 
   "homePage":{
     "bestSellers": [
-      {"id":1, "name": "Vanilla dream", "info": "pink vanilla buttercream on vanilla cake", "img":"../assets/homeImages/vanilla-dream.png"},
-      {"id":2, "name": "Chocolate sensation", "info": "chocolate buttercream on chocolate cake", "img":"../assets/homeImages/chocolate-sensation.png"},
-      {"id":3, "name": "Blueberry Bomb", "info": "blueberry buttercream on chocolate cake", "img":"../assets/homeImages/blueberry-bomb.png"}
+      {"id":1, "name": "Vanilla dream", "info": "pink vanilla buttercream on vanilla cake", "img":"vanilla-dream.png"},
+      {"id":2, "name": "Chocolate sensation", "info": "chocolate buttercream on chocolate cake", "img":"chocolate-sensation.png"},
+      {"id":3, "name": "Blueberry Bomb", "info": "blueberry buttercream on chocolate cake", "img":"blueberry-bomb.png"}
   
     ],
 
