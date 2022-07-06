@@ -1,100 +1,418 @@
 {
-  "ice-cream": {
-    "flavour": [
-      "Classic Hot Fudge",
-      "Coconut Coffee Crunch",
-      "Blueberry Pie Sauce",
-      "something",
-      "add more",
-      "add something"
+  "Cupcakes": {
+    "cake": [
+      {
+        "id": 1,
+        "name": "Chocolate cake",
+        "img": "https://i.ibb.co/Gxbmj1C/chocolate-cake.png"
+      },
+      {
+        "id": 2,
+        "name": "Vanilla cake",
+        "img": "https://i.ibb.co/z4c8BbL/vanilla-cake.png"
+      },
+      {
+        "id": 3,
+        "name": "Red velvet cake",
+        "img": "https://i.ibb.co/cFNtyVv/red-velvet-cake.png"
+      },
+      {
+        "id": 4,
+        "name": "Lemon cake",
+        "img": "https://i.ibb.co/gt3f2PJ/lemon-cake.png"
+      }
     ],
-    "cone": ["Sugar Cones", " Waffle Cones"],
+    "icing": [
+      {
+        "id": 1,
+        "name": "Chocolate buttercream",
+        "img": "https://i.ibb.co/SwgdZwv/Chocolate.png"
+      },
+      {
+        "id": 2,
+        "name": "Vanilla buttercream",
+        "img": "https://i.ibb.co/T2qqKB6/Cream-cheese.png"
+      },
+      {
+        "id": 3,
+        "name": "Mint buttercream",
+        "img": "https://i.ibb.co/sCpfzCM/Mint.png"
+      },
+      {
+        "id": 4,
+        "name": "Lemon buttercream",
+        "img": "https://i.ibb.co/fYDNpfg/Lemon.png"
+      },
+      {
+        "id": 5,
+        "name": "Peanut buttercream",
+        "img": "https://i.ibb.co/r3HYszh/Peanut-butter.png"
+      },
+      {
+        "id": 6,
+        "name": "Strawberry buttercream",
+        "img": "https://i.ibb.co/JQTKfhq/Strawberry.png"
+      },
+      {
+        "id": 7,
+        "name": "Pink vanilla buttercream",
+        "img": "https://i.ibb.co/BPbJfs1/Pink-vanilla.png"
+      },
+      {
+        "id": 8,
+        "name": "Cream cheese buttercream",
+        "img": "https://i.ibb.co/T2qqKB6/Cream-cheese.png"
+      },
+      {
+        "id": 9,
+        "name": "Blueberry buttercream",
+        "img": "https://i.ibb.co/C2Y01Mp/Blueberry.png"
+      }
+    ],
+    "sprinkles": [
+      {
+        "id": 1,
+        "name": "Pink pearls",
+        "img": "https://i.ibb.co/XLgCVWb/Pink-pearls.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Sugar strands",
+        "img": "https://i.ibb.co/fS8XGyf/Sweet-strands.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Sweet crystal",
+        "img": "https://i.ibb.co/GdMrPjQ/Sweet-crystal.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Sanding sugar",
+        "img": "https://i.ibb.co/C1JpsVS/Sanding-sugar.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Heart-shaped sprinkles",
+        "img": "https://i.ibb.co/VppgmJB/Hearts.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Chocolate chip",
+        "img": "https://i.ibb.co/DQzP70h/Chocolate-chip.jpg"
+      }
+    ],
     "topping": [
-      "Salted Dark Chocolate Hot Fudge",
-      "Raspberry Dark Chocolate Hot Fudge",
-      "Classic Hot Fudge",
-      "Orange-Chocolate Hot Fudge"
+      {
+        "id": 1,
+        "name": "Salted caramel",
+        "img": "https://i.ibb.co/fFKTHRt/salted-caramel.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Vanilla glaze",
+        "img": "https://i.ibb.co/vhRJ8sY/vanilla-glaze.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Fruit passion",
+        "img": "https://i.ibb.co/p26JyGb/fruit-passion.jpg"
+      }
+    ],
+    "best-sellers": [
+      {
+        "id": 1,
+        "name": "Vanilla dream",
+        "info": "pink vanilla buttercream on vanilla cake",
+        "img": "https://i.ibb.co/j4k8b66/vanilla-dream.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Chocolate sensation",
+        "info": "chocolate buttercream on chocolate cake",
+        "img": "https://i.ibb.co/S0wCsnP/chocolate-sensation.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Dark Angel",
+        "info": "cream cheese buttercream on chocolate cake",
+        "img": "https://i.ibb.co/4T5sGXD/dark-angel.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Red Velvet",
+        "info": "cream cheese buttercream on red velvet cake",
+        "img": "https://i.ibb.co/G7JSzHx/red-velvet.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Blueberry Bomb",
+        "info": "blueberry buttercream on chocolate cake",
+        "img": "https://i.ibb.co/ph2y6Y6/blueberry-bomb.jpg"
+      }
     ]
   },
 
-  "cake": {
-    "bottom": "Something",
-    "cream": "Example",
-    "top": "Cherry"
+  "Cakes": {
+    "cake": [
+      {
+        "id": 1,
+        "name": "Vanilla cake",
+        "img": "https://i.ibb.co/kGmfwFc/vanilla.png"
+      },
+      {
+        "id": 2,
+        "name": "Chocolate cake",
+        "img": "https://i.ibb.co/phb5RDh/chocolate.png"
+      }
+    ],
+    "buttercream": [
+      {
+        "id": 1,
+        "name": "Oreo Madness",
+        "img": "https://i.ibb.co/jJ1Zcff/oreo.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Very Berry Raspberry",
+        "img": "https://i.ibb.co/QPXh63r/raspberry.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Reece's",
+        "img": "https://i.ibb.co/L641M4Y/reeces.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Cookie Monster",
+        "img": "https://i.ibb.co/DWqyNSf/cookies.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Blueberry sensation",
+        "img": "https://i.ibb.co/cy3Frkz/blueberry.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Matcha",
+        "img": "https://i.ibb.co/ysySXFt/matcha.jpg"
+      }
+    ],
+    "toppings": [
+      {
+        "id": 1,
+        "name": "White chocolate shards",
+        "img": "white-chocolate-shards.jpg"
+      },
+      {
+        "id": 2,
+        "name": "White chocolate drip",
+        "img": "white-chocolate-drip.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Dark chocolate drip",
+        "img": "dark-chocolate-drip.jpg"
+      },
+      { "id": 4, "name": "Chocolate mix", "img": "chocolate-mix.jpg" },
+      {
+        "id": 5,
+        "name": "Dark chocolate shards",
+        "img": "dark-chocolate-shards.jpg"
+      }
+    ],
+    "best sellers": [
+      {
+        "id": 1,
+        "name": "Oreo Madness",
+        "img": "https://i.ibb.co/jJ1Zcff/oreo.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Blueberry sensation",
+        "img": "https://i.ibb.co/cy3Frkz/blueberry.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Matcha",
+        "img": "https://i.ibb.co/ysySXFt/matcha.jpg"
+      }
+    ]
+  },
+
+  "Ice Cream": {
+    "cone": [
+      { "id": 1, "name": "Regular cone", "img": "regular.png" },
+      { "id": 2, "name": "Sugar cone", "img": "sugar.png" },
+      { "id": 3, "name": "Waffle cone", "img": "waffle.png" },
+      { "id": 4, "name": "Waffle bowl", "img": "waffle-bowl.png" },
+      { "id": 5, "name": "Package", "img": "package.png" }
+    ],
+    "Ice": [
+      { "id": 1, "name": "Pralines n Cream", "img": "pralines.png" },
+      { "id": 2, "name": "Rainbow Sherbet", "img": "rainbow.png" },
+      { "id": 3, "name": "Vanilla", "img": "vanilla.png" },
+      { "id": 4, "name": "Rocky Road", "img": "rocky.png" },
+      { "id": 5, "name": "Mint Chocolate Chip", "img": "mint.png" },
+      { "id": 6, "name": "Moca", "img": "moca.png" },
+      { "id": 7, "name": "Chocolate", "img": "chocolate.png" },
+      { "id": 8, "name": "Stracciatella", "img": "stracciatella.png" },
+      { "id": 9, "name": "Berry Strawberry", "img": "strawberry.png" },
+      { "id": 10, "name": "Cookie Dough", "img": "cookies.png" }
+    ],
+    "sprinkles": [
+      {
+        "id": 1,
+        "name": "Pink pearls",
+        "img": "https://i.ibb.co/XLgCVWb/Pink-pearls.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Sugar strands",
+        "img": "https://i.ibb.co/fS8XGyf/Sweet-strands.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Sweet crystal",
+        "img": "https://i.ibb.co/GdMrPjQ/Sweet-crystal.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Sanding sugar",
+        "img": "https://i.ibb.co/C1JpsVS/Sanding-sugar.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Heart-shaped sprinkles",
+        "img": "https://i.ibb.co/VppgmJB/Hearts.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Chocolate chip",
+        "img": "https://i.ibb.co/DQzP70h/Chocolate-chip.jpg"
+      }
+    ],
+    "topping": [
+      {
+        "id": 1,
+        "name": "Salted caramel",
+        "img": "https://i.ibb.co/fFKTHRt/salted-caramel.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Vanilla glaze",
+        "img": "https://i.ibb.co/vhRJ8sY/vanilla-glaze.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Fruit passion",
+        "img": "https://i.ibb.co/p26JyGb/fruit-passion.jpg"
+      }
+    ]
   },
 
   "waffle": {
     "base": [
-      {"id": 1, "name": "Regular Brussels Waffle", "info": "Brussels waffles,made with yeast, are big rectangular waffles that are crispy on the outside and fluffy on the inside with large deep pockets.", "img": "waffle_base1.png"},
-      {"id": 2, "name": "Vegan Brussels Waffle", "info": "Vegan version of brussels waffles without the use of eggs in its recipy", "img": "waffle_base1.png"},
-      {"id": 3, "name": "Regular Belgium Waffle", "info": "Belgium waffles are very similar to the Brussels waffle, but it is made with baking powder instead which changes the consistency slightly.", "img": "waffle_base2.png"},
-      {"id": 4, "name": "Vegan Belgium Waffle", "info": "The recipy does not use dairy and eggs, but belgium waffles' texture and taste are saved anyway. They’re light and fluffy on the inside and crispy on the outside, made with almond milk and with a slight nutty taste thanks to the ground flax seed.", "img": "waffle_base2.png" },
-      {"id": 5, "name": "Regular Pandan Waffle", "info": "This is the Vietnamese version of the waffle with a very interesting color, since one of the ingredients used to flavor the waffle is Pandan leaves or extract, which gives it a green color and also a nutty flavor.", "img": "waffle_base3.png"},
-      {"id": 6, "name": "Vegan Pandan Waffle", "info": "Eggs are not added in this recipy, but original taste and texture are fully saved", "img": "waffle_base3.png"},
-      {"id": 7, "name": " Regular Hong Kong Egg Waffles", "info": "Instead of the traditional pockets indenting a waffle, the Hong Kong egg waffle has egg shaped bubbles sticking outward that are easy to break off and snack on", "img": "waffle_base4.png" },
-      {"id": 8, "name": "Vegan Hong Kong Waffles", "info": "Vegan version of Hing Kong Waffle without using eggs in its recipy", "img": "waffle_base4.png" }],
+      {
+        "id": 1,
+        "name": "Regular Brussels Waffle",
+        "info": "Brussels waffles,made with yeast, are big rectangular waffles that are crispy on the outside and fluffy on the inside with large deep pockets.",
+        "img": "waffle_base1.png"
+      },
+      {
+        "id": 2,
+        "name": "Vegan Brussels Waffle",
+        "info": "Vegan version of brussels waffles without the use of eggs in its recipy",
+        "img": "waffle_base1.png"
+      },
+      {
+        "id": 3,
+        "name": "Regular Belgium Waffle",
+        "info": "Belgium waffles are very similar to the Brussels waffle, but it is made with baking powder instead which changes the consistency slightly.",
+        "img": "waffle_base2.png"
+      },
+      {
+        "id": 4,
+        "name": "Vegan Belgium Waffle",
+        "info": "The recipy does not use dairy and eggs, but belgium waffles' texture and taste are saved anyway. They’re light and fluffy on the inside and crispy on the outside, made with almond milk and with a slight nutty taste thanks to the ground flax seed.",
+        "img": "waffle_base2.png"
+      },
+      {
+        "id": 5,
+        "name": "Regular Pandan Waffle",
+        "info": "This is the Vietnamese version of the waffle with a very interesting color, since one of the ingredients used to flavor the waffle is Pandan leaves or extract, which gives it a green color and also a nutty flavor.",
+        "img": "waffle_base3.png"
+      },
+      {
+        "id": 6,
+        "name": "Vegan Pandan Waffle",
+        "info": "Eggs are not added in this recipy, but original taste and texture are fully saved",
+        "img": "waffle_base3.png"
+      },
+      {
+        "id": 7,
+        "name": " Regular Hong Kong Egg Waffles",
+        "info": "Instead of the traditional pockets indenting a waffle, the Hong Kong egg waffle has egg shaped bubbles sticking outward that are easy to break off and snack on",
+        "img": "waffle_base4.png"
+      },
+      {
+        "id": 8,
+        "name": "Vegan Hong Kong Waffles",
+        "info": "Vegan version of Hing Kong Waffle without using eggs in its recipy",
+        "img": "waffle_base4.png"
+      }
+    ],
     "toppings": [
-      {"id": 1, "name": "Mix of berries", "img": "waffle_topping1.png"}, 
-      {"id": 2, "name": "Coconut flakes", "img": "waffle_topping2.png"}, 
-      {"id": 3, "name": "Apples and cinnamon", "img": "waffle_topping3.png" }, 
-      {"id": 4, "name": "Nutella", "img": "waffle_topping4.png"}, 
-      {"id":5, "name": "Whipped cream", "img": "waffle_topping5.png"},
-      {"id":6, "name": "Pecans", "img": "waffle_topping6.png"},
-      {"id":7, "name": "Cherries", "img": "waffle_topping7.png"},
-      {"id": 8, "name": "Marshmallows", "img": "waffle_topping8.png"},
-      {"id": 9, "name": "Bourbon Peaches", "img": "waffle_topping9.png"},
-      {"id": 10, "name": "Maple Syrup", "img": "waffle_topping10.png"}
+      { "id": 1, "name": "Mix of berries", "img": "waffle_topping1.png" },
+      { "id": 2, "name": "Coconut flakes", "img": "waffle_topping2.png" },
+      { "id": 3, "name": "Apples and cinnamon", "img": "waffle_topping3.png" },
+      { "id": 4, "name": "Nutella", "img": "waffle_topping4.png" },
+      { "id": 5, "name": "Whipped cream", "img": "waffle_topping5.png" },
+      { "id": 6, "name": "Pecans", "img": "waffle_topping6.png" },
+      { "id": 7, "name": "Cherries", "img": "waffle_topping7.png" },
+      { "id": 8, "name": "Marshmallows", "img": "waffle_topping8.png" },
+      { "id": 9, "name": "Bourbon Peaches", "img": "waffle_topping9.png" },
+      { "id": 10, "name": "Maple Syrup", "img": "waffle_topping10.png" }
     ]
   },
 
-  "Cupcakes": {
-    "cake": [
-      {"id": 1, "name": "Chocolate cake", "img": "chocolate-cake.png"},
-      {"id": 2, "name": "Vanilla cake", "img": "vanilla-cake.png"},
-      {"id": 3, "name": "Red velvet cake", "img": "red-velvet-cake.png"},
-      {"id": 4, "name": "Lemon cake", "img": "lemon-cake.png"}
-    ],
-    "icing": [
-      {"id": 1, "name": "Chocolate buttercream", "img": "Chocolate.png"},
-      {"id": 2, "name": "Vanilla buttercream", "img": "Vanilla.png"},
-      {"id": 3, "name": "Mint buttercream", "img": "Mint.png"},
-      {"id": 4, "name": "Lemon buttercream", "img": "Lemon.png"},
-      {"id": 5, "name": "Peanut buttercream", "img": "Peanut-butter.png"},
-      {"id": 6, "name": "Strawberry buttercream", "img": "Strawberry.png"},
-      {"id": 7, "name": "Pink vanilla buttercream", "img": "Pink-vanilla.png"},
-      {"id": 8, "name": "Cream cheese buttercream", "img": "Cream-cheese.png"},
-      {"id": 9, "name": "Blueberry buttercream", "img": "Blueberry.png"}
-    ],
-    "sprinkles": [
-      {"id": 1, "name": "Pink pearls", "img": "Pink-pearls.jpg"},
-      {"id": 2, "name": "Sugar strands", "img": "Sugar-strands.jpg"},
-      {"id": 3, "name": "Sweet crystal", "img": "Sweet-crystal.jpg"},
-      {"id": 4, "name": "Sanding sugar", "img": "Sanding-sugar.jpg"},
-      {"id": 5, "name": "Heart-shaped sprinkles", "img": "Hearts.jpg"},
-      {"id": 6, "name": "Chocolate chip", "img": "Chocolate-chip.jpg"}
-    ],
-    "topping": [
-      {"id": 1, "name": "Salted caramel", "img": "salted-caramel.jpg"},
-      {"id": 2, "name": "Vanilla glaze", "img": "vanilla-glaze.jpg"},
-      {"id": 3, "name": "Fruit passion", "img": "fruit-passion.jpg"}
-    ]
-  },
-
-  "homePage":{
+  "homePage": {
     "bestSellers": [
-      {"id":1, "name": "Vanilla dream", "info": "pink vanilla buttercream on vanilla cake", "img":"https://i.ibb.co/nDGvGvt/blueberry-bomb.png"},
-      {"id":2, "name": "Chocolate sensation", "info": "chocolate buttercream on chocolate cake", "img":"https://i.ibb.co/C0wbNXQ/chocolate-sensation.png"},
-      {"id":3, "name": "Blueberry Bomb", "info": "blueberry buttercream on chocolate cake", "img":"https://i.ibb.co/QPQcs6b/vanilla-dream.png"}
-  
+      {
+        "id": 1,
+        "name": "Vanilla dream",
+        "info": "pink vanilla buttercream on vanilla cake",
+        "img": "https://i.ibb.co/nDGvGvt/blueberry-bomb.png"
+      },
+      {
+        "id": 2,
+        "name": "Chocolate sensation",
+        "info": "chocolate buttercream on chocolate cake",
+        "img": "https://i.ibb.co/C0wbNXQ/chocolate-sensation.png"
+      },
+      {
+        "id": 3,
+        "name": "Blueberry Bomb",
+        "info": "blueberry buttercream on chocolate cake",
+        "img": "https://i.ibb.co/QPQcs6b/vanilla-dream.png"
+      }
     ],
 
     "topCreations": [
-      {"id":1, "name": "Matcha", "img":"https://i.ibb.co/wyZ4x6Z/matcha.png"},
-      {"id":2, "name": "Vanilla Ombre Layer", "img":"https://i.ibb.co/xChQc2r/ombre-cake.png"},
-      {"id":3, "name": "Oreo Madness", "img":"https://i.ibb.co/8x0yP18/oreo.png"}
+      {
+        "id": 1,
+        "name": "Matcha",
+        "img": "https://i.ibb.co/wyZ4x6Z/matcha.png"
+      },
+      {
+        "id": 2,
+        "name": "Vanilla Ombre Layer",
+        "img": "https://i.ibb.co/xChQc2r/ombre-cake.png"
+      },
+      {
+        "id": 3,
+        "name": "Oreo Madness",
+        "img": "https://i.ibb.co/8x0yP18/oreo.png"
+      }
     ]
   }
-
-  
-
 }
