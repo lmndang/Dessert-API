@@ -594,7 +594,7 @@
   },
 
   "MenuIceCream": {
-    "sundaes": [
+    "Sundaes": [
       {
         "id": 1,
         "name": "Caramel fudge",
@@ -620,6 +620,64 @@
         "name": "Plain vanilla",
         "img": "https://i.ibb.co/KFY05pK/plain.png"
       }
+    ],
+    "Ice cream bowls": [
+      {
+        "id": 1,
+        "name": "Caramel dream",
+        "img": "https://i.ibb.co/ykQ1p12/caramel.png"
+      },
+      {
+        "id": 2,
+        "name": "Chocolate",
+        "img": "https://i.ibb.co/w4M7KcB/chocolate.png"
+      },
+      {
+        "id": 3,
+        "name": "Matcha",
+        "img": "https://i.ibb.co/HzvmQv1/matcha.png"
+      },
+      { "id": 4, "name": "Moca", "img": "https://i.ibb.co/bKYyQB3/moca.png" },
+      {
+        "id": 5,
+        "name": "Vanilla",
+        "img": "https://i.ibb.co/S5XG0Z0/vanilla.png"
+      }
+    ],
+    "Cones": [
+      {
+        "id": 1,
+        "name": "Caramel",
+        "img": "https://i.ibb.co/cxJnccv/caramel.png"
+      },
+      {
+        "id": 2,
+        "name": "Chocolate",
+        "img": "https://i.ibb.co/4WgYwQs/chocolate.png"
+      },
+      {
+        "id": 3,
+        "name": "Peanut butter",
+        "img": "https://i.ibb.co/6X3S2jX/pb.png"
+      },
+      {
+        "id": 4,
+        "name": "Stracciatella",
+        "img": "https://i.ibb.co/0Y54sG6/stracciatella.png"
+      },
+      {
+        "id": 5,
+        "name": "Strawberry",
+        "img": "https://i.ibb.co/WWFfpyk/strawberry.png"
+      }
     ]
-  }
+  },
+
+  "Pancakes": [
+    {"id": 1, "name": "Fruit holiday", "img": "https://i.ibb.co/FwpkqTX/fruit-holiday.png"},
+    {"id": 2, "name": "Maple syrup", "img": "https://i.ibb.co/7kk0cRn/maple-syrup.png"},
+    {"id": 3, "name": "Nutella", "img": "https://i.ibb.co/HN7c6dC/nutella.png"},
+    {"id": 4, "name": "Nutty dream", "img": "https://i.ibb.co/N6NM02m/nutty-dream.png"},
+    {"id": 5, "name": "White chocolate", "img": "https://i.ibb.co/M2kYDgf/white-chocolate.png"}
+  ]
 }
