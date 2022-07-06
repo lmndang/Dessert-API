@@ -492,21 +492,134 @@
     ]
   },
 
-  "basicCakes": [
-    {
-      "id": 1,
-      "name": "Chocolate Truffle",
-      "img": "https://i.ibb.co/4F42y7P/Chocolate1.png"
-    },
-    {
-      "id": 2,
-      "name": "Double Choclate",
-      "img": "https://i.ibb.co/JRq7CDY/Chocolate2.png"
-    },
-    {
-      "id": 3,
-      "name": "Giant Birthday Cake",
-      "img": "https://i.ibb.co/RTkN5qr/Birthday-Cake1.png"
-    }
-  ]
+  "CakeMenu": {
+    "basicCakes": [
+      {
+        "id": 1,
+        "name": "Chocolate Truffle",
+        "img": "https://i.ibb.co/4F42y7P/Chocolate1.png"
+      },
+      {
+        "id": 2,
+        "name": "Double Chocolate",
+        "img": "https://i.ibb.co/JRq7CDY/Chocolate2.png"
+      },
+      {
+        "id": 3,
+        "name": "Berry Sponge",
+        "img": "https://i.ibb.co/1Qpq8jd/Berry-Sponge.png"
+      },
+      {
+        "id": 4,
+        "name": "Creamy Vanilla",
+        "img": "https://i.ibb.co/T2Ym84c/alexandra-golovac-n-N-Aj-O-Pjgg-unsplash-modified.png"
+      },
+      {
+        "id": 5,
+        "name": "Oreo",
+        "img": "https://i.ibb.co/0FpJwWD/OreoCake.png"
+      },
+      {
+        "id": 6,
+        "name": "Ferrero Rocher",
+        "img": "https://i.ibb.co/4VdkBgk/Ferrero.png"
+      }
+    ],
+
+    "fruitCakes": [
+      {
+        "id": 1,
+        "name": "Blueberry",
+        "img": "https://i.ibb.co/BzvbtVT/Blueberry.png"
+      },
+      {
+        "id": 2,
+        "name": "Fruit Punch",
+        "img": "https://i.ibb.co/smsBw0S/Fruit-Punch.png"
+      },
+      {
+        "id": 3,
+        "name": "Tropical Fantasy",
+        "img": "https://i.ibb.co/74KyNFX/Tropical-Fantasy.png"
+      },
+      {
+        "id": 4,
+        "name": "Strawberry",
+        "img": "https://i.ibb.co/wBPt9zQ/Strawberry.png"
+      },
+      {
+        "id": 5,
+        "name": "RaspberryChocolate",
+        "img": "https://i.ibb.co/6mrYSWs/Raspberry-Chocolate.png"
+      },
+      {
+        "id": 6,
+        "name": "MangoDelight",
+        "img": "https://i.ibb.co/nnhhGrQ/Mango-Delight.png"
+      }
+    ],
+
+    "cheeseCakes": [
+      {
+        "id": 1,
+        "name": "Raspberry",
+        "img": "https://i.ibb.co/CQRqhnB/Raspberry-Cheesecake.pn"
+      },
+      {
+        "id": 2,
+        "name": "Strawberry",
+        "img": "https://i.ibb.co/NV0jpzz/Strawberry-Cheesecake.png"
+      },
+      {
+        "id": 3,
+        "name": "Red Velvet",
+        "img": "https://i.ibb.co/hc70KJb/Red-Velvet-Cheesecake.png"
+      },
+      {
+        "id": 4,
+        "name": "Classic New York Style",
+        "img": "https://i.ibb.co/bbJ9RNL/New-York-Cheesecake.png"
+      },
+      {
+        "id": 5,
+        "name": "Tiramisu",
+        "img": "https://i.ibb.co/1sFHP0L/Tiramisu-Cheesecake.png"
+      },
+      {
+        "id": 6,
+        "name": "Chocolate",
+        "img": "https://i.ibb.co/CH9gGh1/Chocolate-Cheesecake.png"
+      }
+    ]
+  },
+
+  "MenuIceCream": {
+    "sundaes": [
+      {
+        "id": 1,
+        "name": "Caramel fudge",
+        "img": "https://i.ibb.co/JzFxdC7/caramel.png"
+      },
+      {
+        "id": 2,
+        "name": "Kinder",
+        "img": "https://i.ibb.co/fxvDTw8/kinder.png"
+      },
+      {
+        "id": 3,
+        "name": "Moca love",
+        "img": "https://i.ibb.co/McF8gN3/moca.png"
+      },
+      {
+        "id": 4,
+        "name": "Strawberry dream",
+        "img": "https://i.ibb.co/vkCw8xw/strawberry.png"
+      },
+      {
+        "id": 5,
+        "name": "Plain vanilla",
+        "img": "https://i.ibb.co/KFY05pK/plain.png"
+      }
+    ]
+  }
 }
