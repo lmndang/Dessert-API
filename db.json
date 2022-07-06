@@ -239,7 +239,7 @@
     ]
   },
 
-  "Ice Cream": {
+  "IceCream": {
     "cone": [
       { "id": 1, "name": "Regular cone", "img": "regular.png" },
       { "id": 2, "name": "Sugar cone", "img": "sugar.png" },
