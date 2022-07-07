@@ -673,7 +673,7 @@
     ]
   },
 
-  "Pancakes": [
+  "MenuPancakes": [
     {
       "id": 1,
       "name": "Fruit holiday",
@@ -700,7 +700,7 @@
       "img": "https://i.ibb.co/M2kYDgf/white-chocolate.png"
     }
   ],
-  "Crepes": [
+  "MenuCrepes": [
     {
       "id": 1,
       "name": "Apple cinnamon",
