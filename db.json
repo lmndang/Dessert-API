@@ -621,7 +621,7 @@
         "img": "https://i.ibb.co/KFY05pK/plain.png"
       }
     ],
-    "Ice cream bowls": [
+    "IceCreamBowls": [
       {
         "id": 1,
         "name": "Caramel dream",
@@ -674,10 +674,61 @@
   },
 
   "Pancakes": [
-    {"id": 1, "name": "Fruit holiday", "img": "https://i.ibb.co/FwpkqTX/fruit-holiday.png"},
-    {"id": 2, "name": "Maple syrup", "img": "https://i.ibb.co/7kk0cRn/maple-syrup.png"},
-    {"id": 3, "name": "Nutella", "img": "https://i.ibb.co/HN7c6dC/nutella.png"},
-    {"id": 4, "name": "Nutty dream", "img": "https://i.ibb.co/N6NM02m/nutty-dream.png"},
-    {"id": 5, "name": "White chocolate", "img": "https://i.ibb.co/M2kYDgf/white-chocolate.png"}
+    {
+      "id": 1,
+      "name": "Fruit holiday",
+      "img": "https://i.ibb.co/FwpkqTX/fruit-holiday.png"
+    },
+    {
+      "id": 2,
+      "name": "Maple syrup",
+      "img": "https://i.ibb.co/7kk0cRn/maple-syrup.png"
+    },
+    {
+      "id": 3,
+      "name": "Nutella",
+      "img": "https://i.ibb.co/HN7c6dC/nutella.png"
+    },
+    {
+      "id": 4,
+      "name": "Nutty dream",
+      "img": "https://i.ibb.co/N6NM02m/nutty-dream.png"
+    },
+    {
+      "id": 5,
+      "name": "White chocolate",
+      "img": "https://i.ibb.co/M2kYDgf/white-chocolate.png"
+    }
+  ],
+  "Crepes": [
+    {
+      "id": 1,
+      "name": "Apple cinnamon",
+      "img": "https://i.ibb.co/FH4XPLh/apple-cinamon.png"
+    },
+    {
+      "id": 2,
+      "name": "Double chocolate",
+      "img": "https://i.ibb.co/0XL9vbJ/double-chocolate.png"
+    },
+    {
+      "id": 3,
+      "name": "Fruit nutella",
+      "img": "https://i.ibb.co/4RrCxsR/fruit-nutella.png"
+    },
+    {
+      "id": 4,
+      "name": "Marmelade",
+      "img": "https://i.ibb.co/ssf9Vxt/marmelade.png"
+    },
+    {
+      "id": 5,
+      "name": "Strawberry banana",
+      "img": "https://i.ibb.co/N6Mf3Sy/strawberry-banana.png"
+    }
+  ],
+
+  "None": [
+    { "id": 1, "name": "none", "img": "https://i.ibb.co/TKgM8hr/none-icon.png" }
   ]
 }
