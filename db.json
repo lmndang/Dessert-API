@@ -598,77 +598,111 @@
       {
         "id": 1,
         "name": "Caramel fudge",
-        "img": "https://i.ibb.co/JzFxdC7/caramel.png"
+        "img": "https://i.ibb.co/JzFxdC7/caramel.png",
+        "nutrition": "Calories 340 (1 serving, 188g), \n11% Total Fat 7g,\n25% Saturated Fat 5g,\n10% Cholesterol 30mg,\n7% Sodium 160mg,\n20% Total Carbohydrates 60g,\n0% Dietary Fiber 0g,\nSugars 42g,\nProtein 7g",
+        "description": "This stunning salted caramel ice cream sundae recipe makes an indulgent treat, with a homemade salted caramel sauce drizzled lovingly over mounds of vanilla and salted caramel ice cream topped with pieces of caramel and chocolate"
       },
       {
         "id": 2,
         "name": "Kinder",
-        "img": "https://i.ibb.co/fxvDTw8/kinder.png"
+        "img": "https://i.ibb.co/fxvDTw8/kinder.png",
+        "nutrition": "Calories 332 (1 serving, 188g), \n12% Total Fat 7.3g,\n25% Saturated Fat 5g,\n10% Cholesterol 30mg,\n7% Sodium 160mg,\n20% Total Carbohydrates 60g,\n0% Dietary Fiber 0g,\nSugars 42g,\nProtein 8g",
+        "description": "Layers of Kinder Bueno and Vanilla ice cream, smothered with Nutella chocolate sauce, topped with kinder bueno balls"
       },
       {
         "id": 3,
         "name": "Moca love",
-        "img": "https://i.ibb.co/McF8gN3/moca.png"
+        "img": "https://i.ibb.co/McF8gN3/moca.png",
+        "nutrition": "Calories 348 (1 serving, 188g), \n10% Total Fat 6.8g,\n23% Saturated Fat 4.9g,\n10% Cholesterol 30mg,\n8% Sodium 180mg,\n20% Total Carbohydrates 60g,\n0% Dietary Fiber 0g,\nSugars 39g,\nProtein 7g",
+        "description": "Moca cream Sundae with layers of chocolate coffee beans, coffee syrup, and drizzled with chocolate over a cookie crumble base"
       },
       {
         "id": 4,
         "name": "Strawberry dream",
-        "img": "https://i.ibb.co/vkCw8xw/strawberry.png"
+        "img": "https://i.ibb.co/vkCw8xw/strawberry.png",
+        "nutrition": "Calories 344 (1 serving, 188g), \n11% Total Fat 7g,\n25% Saturated Fat 5g,\n10% Cholesterol 30mg,\n7% Sodium 160mg,\n20% Total Carbohydrates 60g,\n0% Dietary Fiber 0g,\nSugars 48g,\nProtein 7g",
+        "description": "A sweet and slightly tart strawberry sauce is paired with vanilla ice cream and garnished with even more fresh strawberries and your favorite toppings"
       },
       {
         "id": 5,
         "name": "Plain vanilla",
-        "img": "https://i.ibb.co/KFY05pK/plain.png"
+        "img": "https://i.ibb.co/KFY05pK/plain.png",
+        "nutrition": "Calories 323 (1 serving, 188g), \n9% Total Fat 6g,\n25% Saturated Fat 5g,\n10% Cholesterol 30mg,\n7% Sodium 160mg,\n20% Total Carbohydrates 60g,\n0% Dietary Fiber 0g,\nSugars 35g,\nProtein 8g",
+        "description": "Smooth and creamy vanilla soft serve, topped with decadent hot fudge sauce"
       }
     ],
     "IceCreamBowls": [
       {
         "id": 1,
         "name": "Caramel dream",
-        "img": "https://i.ibb.co/ykQ1p12/caramel.png"
+        "img": "https://i.ibb.co/ykQ1p12/caramel.png",
+        "nutrition": "Calories 499 (1 cup, 239g)\nCalories from Fat 196. Calories 499.\n34% Total Fat 22g.\n65% Saturated Fat 13g.\n29% Cholesterol 87mg.\n12% Sodium 299mg.\n12% Potassium 422mg.\n23% Total Carbohydrates 70g.\nProtein 7.4g",
+        "description": ""
       },
       {
         "id": 2,
         "name": "Chocolate",
-        "img": "https://i.ibb.co/w4M7KcB/chocolate.png"
+        "img": "https://i.ibb.co/w4M7KcB/chocolate.png",
+        "nutrition": "Calories 512 (1 cup, 239g)\nCalories from Fat 199.\n34% Total Fat 22g.\n65% Saturated Fat 13g.\n29% Cholesterol 87mg.\n12% Sodium 299mg.\n12% Potassium 422mg.\n23% Total Carbohydrates 72g.\nProtein 8g",
+        "description": ""
       },
       {
         "id": 3,
         "name": "Matcha",
-        "img": "https://i.ibb.co/HzvmQv1/matcha.png"
+        "img": "https://i.ibb.co/HzvmQv1/matcha.png",
+        "nutrition": "Calories 499 (1 cup, 239g)\nCalories from Fat 196.\n34% Total Fat 22g.\n65% Saturated Fat 13g.\n29% Cholesterol 87mg.\n12% Sodium 299mg.\n12% Potassium 422mg.\n24% Total Carbohydrates 73g.\nProtein 7.3g",
+        "description": ""
       },
-      { "id": 4, "name": "Moca", "img": "https://i.ibb.co/bKYyQB3/moca.png" },
+      {
+        "id": 4,
+        "name": "Moca",
+        "img": "https://i.ibb.co/bKYyQB3/moca.png",
+        "nutrition": "Calories 499 (1 cup, 239g)\nCalories from Fat 196.\n34% Total Fat 22g.\n65% Saturated Fat 13g.\n29% Cholesterol 87mg.\n12% Sodium 299mg.\n12% Potassium 422mg.\n23% Total Carbohydrates 70g.\nProtein 7.6g",
+        "description": ""
+      },
       {
         "id": 5,
         "name": "Vanilla",
-        "img": "https://i.ibb.co/S5XG0Z0/vanilla.png"
+        "img": "https://i.ibb.co/S5XG0Z0/vanilla.png",
+        "nutrition": "Calories 480 (1 cup, 239g)\nCalories from Fat 196.\n34% Total Fat 22g.\n65% Saturated Fat 13g.\n29% Cholesterol 87mg.\n12% Sodium 299mg.\n12% Potassium 422mg.\n23% Total Carbohydrates 70g.\nProtein 7.8g",
+        "description": ""
       }
     ],
     "Cones": [
       {
         "id": 1,
         "name": "Caramel",
-        "img": "https://i.ibb.co/cxJnccv/caramel.png"
+        "img": "https://i.ibb.co/cxJnccv/caramel.png",
+        "nutrition": "",
+        "description": ""
       },
       {
         "id": 2,
         "name": "Chocolate",
-        "img": "https://i.ibb.co/4WgYwQs/chocolate.png"
+        "img": "https://i.ibb.co/4WgYwQs/chocolate.png",
+        "nutrition": "",
+        "description": ""
       },
       {
         "id": 3,
         "name": "Peanut butter",
-        "img": "https://i.ibb.co/6X3S2jX/pb.png"
+        "img": "https://i.ibb.co/6X3S2jX/pb.png",
+        "nutrition": "",
+        "description": ""
       },
       {
         "id": 4,
         "name": "Stracciatella",
-        "img": "https://i.ibb.co/0Y54sG6/stracciatella.png"
+        "img": "https://i.ibb.co/0Y54sG6/stracciatella.png",
+        "nutrition": "",
+        "description": ""
       },
       {
         "id": 5,
         "name": "Strawberry",
-        "img": "https://i.ibb.co/WWFfpyk/strawberry.png"
+        "img": "https://i.ibb.co/WWFfpyk/strawberry.png",
+        "nutrition": "",
+        "description": ""
       }
     ]
   },
