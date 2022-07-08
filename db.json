@@ -71,6 +71,11 @@
     ],
     "sprinkles": [
       {
+        "id": 0,
+        "name": "No Sprinkles",
+        "img": "https://i.ibb.co/TKgM8hr/none-icon.png"
+      },
+      {
         "id": 1,
         "name": "Pink pearls",
         "img": "https://i.ibb.co/XLgCVWb/Pink-pearls.jpg"
@@ -166,6 +171,11 @@
       }
     ],
     "buttercream": [
+      {
+        "id": 0,
+        "name": "No Butter Cream",
+        "img": "https://i.ibb.co/TKgM8hr/none-icon.png"
+      },
       {
         "id": 1,
         "name": "Oreo Madness",
@@ -320,6 +330,11 @@
       }
     ],
     "sprinkles": [
+      {
+        "id": 0,
+        "name": "No Sprinkles",
+        "img": "https://i.ibb.co/TKgM8hr/none-icon.png"
+      },
       {
         "id": 1,
         "name": "Pink pearls",
