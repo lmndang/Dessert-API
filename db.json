@@ -455,51 +455,51 @@
     "bestSellers": [
       {
         "id": 1,
-        "name": "Vanilla dream",
-        "info": "pink vanilla buttercream on vanilla cake",
-        "img": "https://i.ibb.co/nDGvGvt/blueberry-bomb.png"
+        "name": "Berry Blast",
+        "info": "Berry loaded pancakes with drizzled maple syrup",
+        "img": "https://i.ibb.co/BB6tdh8/fruit-holiday-removebg-preview.png"
       },
       {
         "id": 2,
-        "name": "Chocolate Sensation",
-        "info": "chocolate buttercream on chocolate cake",
-        "img": "https://i.ibb.co/C0wbNXQ/chocolate-sensation.png"
+        "name": "Kinder Joy",
+        "info": "Kinder Joy flavored ice cream, loaded with lots of Kinder Buenos and chocolate balls. Topped with creamy chocolate syrup.",
+        "img": "https://i.ibb.co/4WWJnSr/kinder-removebg-preview.png"
       },
       {
         "id": 3,
-        "name": "Blueberry Bomb",
-        "info": "blueberry buttercream on chocolate cake",
-        "img": "https://i.ibb.co/QPQcs6b/vanilla-dream.png"
+        "name": "Royal Ferrero",
+        "info": "Hazelnut cupcake topped with ",
+        "img": "https://i.ibb.co/jRqSyVw/ferrero-1-removebg-preview.png"
       },
       {
         "id": 4,
-        "name": "Dark Angel",
+        "name": "Mango Delight",
         "info": "cream cheese buttercream on chocolate cake",
-        "img": "https://i.ibb.co/kQ0H2j7/dark-angel.png"
+        "img": "https://i.ibb.co/S3WywSN/Mango-Delight-removebg-preview.png"
       },
       {
         "id": 5,
-        "name": "Red Velvet",
+        "name": "Strawberry Cheesecake",
         "info": "cream cheese buttercream on red velvet cake",
-        "img": "https://i.ibb.co/b6BWWFW/red-velvet.png"
+        "img": "https://i.ibb.co/DLG1zBZ/Strawberry-Cheesecake-removebg-preview.png"
       }
     ],
 
     "topCreations": [
       {
         "id": 1,
-        "name": "Matcha",
-        "img": "https://i.ibb.co/wyZ4x6Z/matcha.png"
+        "name": "Nutty Nutella",
+        "img": "https://i.ibb.co/Tq5HPBC/IMG-0529-scaled-removebg-preview.png"
       },
       {
         "id": 2,
-        "name": "Vanilla Ombre Layer",
-        "img": "https://i.ibb.co/xChQc2r/ombre-cake.png"
+        "name": "Chocolate Iced Cone",
+        "img": "https://i.ibb.co/TYVJwG5/Krispy-Kreme-Chocolate-Iced-Cone-FT-BLOG0622-removebg-preview.png"
       },
       {
         "id": 3,
-        "name": "Oreo Madness",
-        "img": "https://i.ibb.co/8x0yP18/oreo.png"
+        "name": "Very Berry",
+        "img": "https://i.ibb.co/tDS6JjN/belgian-waffle-ice-cream-fresh-berries-portion-isolated-white-background-top-view-194820131-removebg.png"
       }
     ]
   },
